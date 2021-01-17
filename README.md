@@ -20,3 +20,24 @@
 [Instagram]: https://instagram.com/JayaneshTG/
 [GMail]: mailto:jayaneshtg@gmail.com
 [GitHub]: https://github.com/JayaneshTG/JayaneshTG/
+
+### Worked with
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+<img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
