@@ -9,6 +9,18 @@
 - 📫 Reach me out at [jayaneshtg@gmail.com](mailto:jayaneshtg@gmail.com "Mail to Jayanesh")
 - 💬 Ask me about ... Anything
 
+### Catch me on
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
+[<img height="30" src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][GMail]
+[<img height="30" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" />][GitHub]
+
+[LinkedIn]: https://www.linkedin.com/in/JayaneshTG/
+[Instagram]: https://instagram.com/JayaneshTG/
+[GMail]: mailto:jayaneshtg@gmail.com
+[GitHub]: https://github.com/JayaneshTG/JayaneshTG/
+
 
 ### Worked with
 
