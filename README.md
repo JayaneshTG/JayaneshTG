@@ -9,4 +9,9 @@
 - 📫 Reach me out at [jayaneshtg@gmail.com](mailto:jayaneshtg@gmail.com "Mail to Jayanesh")
 - 💬 Ask me about ... Anything
 
-### Follow me
+### Catch me on
+[<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[LinkedIn]: https://www.linkedin.com/in/JayaneshTG/
+[Instagram]: https://instagram.com/JayaneshTG/
