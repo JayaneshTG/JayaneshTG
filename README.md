@@ -1,6 +1,6 @@
 ### Hello world, I'm [Jayanesh](http://jayaneshtg.github.io/)! 👋
-![](working.gif)
-![](keep-coding.gif)
+<img alt="Working" height=278 width=498 src="working.gif" />
+<img alt="Keep-Coding" height=150 width=498 src="keep-coding.gif" />
 
 - ✍ You can find my projects here
 - 💼 I'm currently pursuing my bachelor degree in Computer Science
