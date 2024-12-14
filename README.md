@@ -3,7 +3,7 @@
 <img alt="Keep-Coding" height=150 width=498 src="keep-coding.gif" />
 
 - ✍ You can find my projects here
-- 💼 I'm currently working as Software Engineer at Accenture
+- 💼 I'm currently working as Software Engineer at IQVIA
 - 🌱 I’m currently learning React and NodeJS
 - 🔭 Looking for some interesting projects to work!
 - 📫 Reach me out at [jayaneshtg@gmail.com](mailto:jayaneshtg@gmail.com "Mail to Jayanesh")
